@@ -1,1 +1,3 @@
 add_lunch_combo sm6_shamu-userdebug
+add_lunch_combo sm6_hammerhead-userdebug
+add_lunch_combo sm6_bacon-userdebug
