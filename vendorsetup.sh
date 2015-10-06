@@ -1,0 +1,1 @@
+add_lunch_combo sm6_shamu-userdebug
